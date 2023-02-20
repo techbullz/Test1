@@ -27,6 +27,9 @@ Make some changes to a file(s) then push to GitHub
 Update a repo using a terminal/command line.\
 `git pull`
 
+Check the file staging status.\
+`git status`
+
 Add a commit.\
 `git commit -m 'Whats new in the file'`
 
