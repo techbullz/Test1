@@ -19,3 +19,5 @@ git config --global user.email "youremail@over.there"
 
 ```
 Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
+
+# Still waiting for my Team to sign in and get things started!!
