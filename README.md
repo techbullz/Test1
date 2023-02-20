@@ -25,8 +25,9 @@ git config --global user.email "youremail@over.there"
 
 Make some changes to a file(s) then push to GitHub
 ```
-Update a repo using a terminal/command line.\
-`git pull`
+Update a repo using a terminal/command line. This may be performed multiple times\
+`git pull`\
+![Git pull](/images/Git_pull.png)
 
 Check the file staging status.\
 `git status`
