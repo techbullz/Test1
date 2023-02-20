@@ -10,7 +10,7 @@ Make CLI examples this way
 ```
 Link example [GitHub_SSH_Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 - After adding your i.e. SSH.pub, open a terminal:
-1. Copy the SSH path of the GitHub folder.
+1. Copy the `SSH` link path of the GitHub folder.
 2. Open the terminal then clone the GitHub folder then enter it.
 3. Add your credentials to your copy of the GitHub folder.
 ```
