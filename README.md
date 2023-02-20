@@ -22,7 +22,17 @@ cd Test1
 git config --global user.name "Alias.Government"
 git config --global user.email "youremail@over.there"
 
+Make some changes to a file(s) then push to GitHub
 ```
+Update a repo using a terminal/command line.\
+`git pull`
+
+Add a commit.\
+`git commit -m 'Whats new in the file'`
+
+Upload the new changes to GitHub.\
+`git push`
+
 Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
 
 # Still waiting for my Team to sign in and get things started!! :joy:
