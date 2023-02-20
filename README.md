@@ -1,5 +1,5 @@
 # Test1
-a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments:
+A person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments:
 ---
 ## From the Team
 Everyone take a turn editing this file to practice pushing and pulling to GitHub.\
@@ -32,12 +32,17 @@ Update a repo using a terminal/command line. This may be performed multiple time
 Check the file staging status.\
 `git status`
 
+To stage the file(s).\
+`git add . `
+
 Add a commit.\
 `git commit -m 'Whats new in the file'`
 
 Upload the new changes to GitHub.\
-`git push`
+`git push`\
+![Git add](/images/git_add_plus.png)
 
-Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
+
+## Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
 
 # Still waiting for my Team to sign in and get things started!! :joy:
