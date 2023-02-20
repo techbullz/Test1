@@ -17,7 +17,7 @@ Link example [GitHub_SSH_Setup](https://docs.github.com/en/authentication/connec
 ```
 git clone git@github.com:techbullz/Test1.git
 ```
-3. CD into that cloned repo folder then your credentials to your copy of the GitHub folder.
+3. CD into that cloned repo folder then add your credentials to your copy of the GitHub folder.
 ```
 cd Test1
 git config --global user.name "Alias.Government"
