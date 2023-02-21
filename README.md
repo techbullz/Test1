@@ -20,8 +20,8 @@ git clone git@github.com:techbullz/Test1.git
 3. CD into that cloned repo folder then add your credentials to your copy of the GitHub folder.
 ```
 cd Test1
-git config --global user.name "Alias.Government"
-git config --global user.email "youremail@over.there"
+git config --global user.name "Your Alias or Government"
+git config --global user.email "devils.adv0kat3@gmail.com" (Use this email for everyone)
 
 Make some changes to a file(s) then push to GitHub
 ```
