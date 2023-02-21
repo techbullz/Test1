@@ -13,7 +13,7 @@ Link example [GitHub_SSH_Setup](https://docs.github.com/en/authentication/connec
 - After adding your i.e. SSH.pub, open a terminal:
 1. Copy the `SSH` link to the GitHub repository.\
 ![From the GitHub repo](/images/SSH_Github.png)
-2. Open the terminal then paste the cloned GitHub repo.
+2. Open the terminal or power shell then paste the cloned GitHub repo.
 ```
 git clone git@github.com:techbullz/Test1.git
 ```
