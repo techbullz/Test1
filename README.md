@@ -45,4 +45,4 @@ Upload the new changes to GitHub.\
 
 ## Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
 
-# Still waiting for my Team to sign in and get things started!! :joy:
+# Ryan did his part!!Still waiting for the rest of the Team!!! :joy:
