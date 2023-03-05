@@ -2,7 +2,7 @@
 # Test1
 A person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments:
 ---
-## From the Team
+## Team Exercise
 Everyone take a turn editing this file to practice pushing and pulling to GitHub.\
 Team developent using the [GODOT](https://godotengine.org/) game engine.\
 Learning GODO[Tutorial](https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest)
