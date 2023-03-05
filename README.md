@@ -1,4 +1,4 @@
-![https://godotengine.org/](/images/Godot.png)
+[![Godot](/images/Godot.png)](https://godotengine.org/)
 # Test1
 A person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments:
 ---
