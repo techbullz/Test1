@@ -2,7 +2,7 @@
 # Test1
 A person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments:
 ---
-## Team Exercise
+## Team Exercise: 1
 Everyone take a turn editing this file to practice pushing and pulling to GitHub.\
 Team developent using the [GODOT](https://godotengine.org/) game engine.\
 Learning GODO[Tutorial](https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest)
@@ -46,4 +46,11 @@ Upload the new changes to GitHub.\
 
 ## Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
 
-# Ryan did his part!!Still waiting for the rest of the Team!!! :joy:
+# Ryan did his part!! Still waiting for the rest of the Team!!! :joy:
+
+## Team Exercise: 2
+Create a demo game in Godot to familiarize yourself with the engine.
+- [x] James
+- [ ] Alex
+- [ ] Will
+- [ ] Ryan
