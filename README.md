@@ -50,7 +50,6 @@ Upload the new changes to GitHub.\
 
 ## Team Exercise: 2
 Create a demo game in Godot to familiarize yourself with the engine.
-![Hack-away](/images/200w.wegp)
 - [x] James
 - [ ] Alex
 - [ ] Will
