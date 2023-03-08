@@ -52,5 +52,5 @@ Upload the new changes to GitHub.\
 Create a demo game in Godot to familiarize yourself with the engine.
 - [x] James
 - [ ] Alex
-- [ ] Will
+- [X] Will
 - [ ] Ryan
