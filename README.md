@@ -53,4 +53,4 @@ Create a demo game in Godot to familiarize yourself with the engine.
 - [x] James
 - [ ] Alex
 - [ ] Will
-- [X] Ryan
+- [ ] Ryan
