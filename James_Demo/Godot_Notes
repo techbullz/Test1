@@ -1,0 +1,35 @@
+Godot Notes
+
+-- Comes with an editor.
+-- GDScript and C# are the main languages.
+    -- GDScript can be edited directly in the editor.
+    -- C# will have to use Visual Studio or VS Code. :(
+-- NativeScript 
+    -- To allow coding in Rust, C, C++ and more without recompiling the Godot.
+
+******************************************************************************
+
+The 4 basic essential concepts for every Godot game.
+
+    * Scenes
+    * Nodes
+    * Scene Tree
+    * Signals
+
+Scenes - break down into reusable scenes.
+    * Plays the role of Prefabs & Scenes in other game engines.
+    * Drag & Drop attributes to the characters and/or game level. Known as Instancing.
+    * Scenes are made of 1 or more Nodes.
+
+Nodes - Contents of the character scene. The smallest building blocks of the game.
+    * Scenes come together by putting nodes. Known as Scene Tree.
+
+Scene Tree - Bundling a bunch of nodes to a scene.
+
+Signals - To make nodes react to other nodes events.
+
+Now open the engine and get started....
+
+
+
+
