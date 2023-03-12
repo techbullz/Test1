@@ -46,12 +46,12 @@ Upload the new changes to GitHub.\
 
 ## Link to the MarkDown language [CheatSheet](https://www.markdownguide.org/cheat-sheet/) to edit the README. 
 
-# Ryan did his part!! Still waiting for the rest of the Team!!! :joy:
+# Will just joined the Team...officially :joy:
 
 ## Team Exercise: 2
 Create a demo game in Godot to familiarize yourself with the engine.
 - [x] James
 - [ ] Alex
-- [ ] Will
+- [X] Will
 - [X] Ryan
 - [X] Johnny
