@@ -49,7 +49,7 @@ Upload the new changes to GitHub.\
 # Will just joined the Team...officially :joy:
 
 ## Team Exercise: 2
-Create a demo game in Godot to familiarize yourself with the engine.
+Create a demo folder and demo game in Godot to familiarize yourself with the engine.
 - [x] James
 - [ ] Alex
 - [X] Will
