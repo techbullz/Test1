@@ -27,6 +27,7 @@ git config --global user.email "devils.adv0kat3@gmail.com" (Use this email for e
 Make some changes to a file(s) then push to GitHub
 ```
 Update a repo using a terminal/command line. This may be performed multiple times\
+I use Linux. Your Screen will have a different appearance.\
 `git pull`\
 ![Git pull](/images/Git_pull.png)
 
