@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=3 uid="uid://brvy4tp4eqq0k"]
+
+[ext_resource type="PackedScene" path="res://ToggleMotion/Godot.tscn" id="1_3u54c"]
+
+[node name="ToggleMotion" type="Node2D"]
+
+[node name="Godot" parent="." instance=ExtResource("1_3u54c")]
+position = Vector2(350, 299)
+
+[node name="Timer" type="Timer" parent="Godot"]
+wait_time = 0.3
+autostart = true
+
+[node name="Button" type="Button" parent="."]
+offset_left = 29.0
+offset_top = 27.0
+offset_right = 184.0
+offset_bottom = 90.0
+text = "Toggle Motion
+"
+
+[connection signal="pressed" from="Button" to="Godot" method="_on_button_pressed"]
