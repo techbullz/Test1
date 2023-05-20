@@ -52,9 +52,9 @@ Upload the new changes to GitHub.\
 Create a demo folder and demo game in Godot to familiarize yourself with the engine.\
 Learning GODO[Tutorial](https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest)
 - [x] James
-- [ ] Alex
 - [ ] Will
 - [ ] Ryan
+- [ ] Jahqui
 
 
 # Where is the TEAM!!
