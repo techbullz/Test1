@@ -51,10 +51,6 @@ Upload the new changes to GitHub.\
 ## Team Exercise: 2
 Create a demo folder and demo game in Godot to familiarize yourself with the engine.\
 Learning GODO[Tutorial](https://www.youtube.com/watch?v=42HKCFf5Lf4&list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa&ab_channel=GDQuest)
-- [x] James
-- [ ] Will
-- [ ] Ryan
-- [ ] Jahqui
+- [x] James Gilles
 
 
-# Where is the TEAM!!
