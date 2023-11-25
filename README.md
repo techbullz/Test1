@@ -10,6 +10,7 @@ Make CLI examples this way
 
 ```
 Link example [GitHub_SSH_Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+## If you're using Billy G's Windows -> Install: [GitBash](https://gitforwindows.org/) and Good luck! You'll become a Linux or Mac user real quick!!
 - After adding your i.e. SSH.pub, open a terminal:
 1. Copy the `SSH` link to the GitHub repository.\
 ![From the GitHub repo](/images/SSH_Github.png)
